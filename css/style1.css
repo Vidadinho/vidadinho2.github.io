@@ -1,0 +1,53 @@
+#first-ul, #scnd-ul{  
+    font-weight: bolder;
+    font-size: larger;
+    color:white;
+    margin-left: 20%;
+}
+
+
+
+.logo {
+    margin-left: 10px;
+    border: none;
+}   
+
+.log {
+    width: 510px;
+    height: 520px;
+    margin-bottom: 30px;
+}
+
+
+
+#scnd-ul {
+    margin-left: 60%;
+    margin-bottom: 60px;
+    color:lightblue;
+    font-size: 2vw;
+}
+
+/* #dark {
+    color:darkblue;
+    font-weight: bold;
+}
+*/
+
+h2 {
+    color: white;
+}
+
+#trauma-img, #community, #idps-img {
+    width: 202px;
+    height: 200px;
+}
+
+#galleries {
+    width:337px;
+	height:202px;
+}
+
+
+
+
+
